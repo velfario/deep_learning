@@ -5,4 +5,5 @@ Este repo contiene dos ejemplos de mi trabajo utilizando redes neuronales convol
 En este documento se puede ver ejemplo de:
 - Uso de Liberia Sklearn.
 - Uso de libraría Keras de Tensorflow.
-- Aumento de datos (aumento sintético)
+- Aumento de datos (aumento sintético).
+- Uso de redes neuronales convolucionales.
